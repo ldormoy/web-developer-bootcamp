@@ -1,0 +1,9 @@
+Gray 20 px border around body
+border #bdc3c7
+date #3498db
+h2 #2c3e50
+font source sans pro
+
+quote: left border
+
+hr styles element between the 2 articles
