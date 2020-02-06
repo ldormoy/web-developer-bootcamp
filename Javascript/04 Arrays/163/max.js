@@ -6,6 +6,7 @@ function max(array) {
         }
     }
     console.log(result);
+    //return result;
 }
 
 max([-10, 25, 3, 4]);
