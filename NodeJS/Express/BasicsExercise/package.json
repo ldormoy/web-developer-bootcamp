@@ -1,0 +1,14 @@
+{
+  "name": "basicsexercise",
+  "version": "1.0.0",
+  "description": "Just a basic Express exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laurent Dormoy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
